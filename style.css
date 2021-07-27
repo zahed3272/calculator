@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(240, 218, 236)
+}
+
+
+
+.main{
+    border: 2px solid grey;
+    width: 300px;
+    margin: 0px auto;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+    
+}
+button{
+    width: 100%;
+    background-color:black;
+    color: rgb(205, 226, 147);
+    height: 70px;
+    font-size: 30px;
+
+
+}
+input{
+    width: 97%;
+    height: 90px;
+    background-color:grey;
+    color: white;
+    font-size: 40px;
+    text-align: right;
+
+}
